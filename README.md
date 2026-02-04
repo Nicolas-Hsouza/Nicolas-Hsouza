@@ -7,30 +7,22 @@
 
 - 🎓 Cursando Inteligencia Artificial (SENAI Fatesg))
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
-
-
+-  🧑‍💼 Buscando oportunidades de estagio na área de TI.
 
 ---
 
-## 📊 Resumo do Perfil GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Willgnner-Santos&theme=2077" alt="Resumo GitHub"/>
-</p>
+
+
+
 
 ---
 
-## 📂 Projetos Destacados
 
-- [DPE-Legal-Doc-Classification-Pipeline](https://github.com/Willgnner-Santos/DPE-Legal-Doc-Classification-Pipeline.git)  
-- [IT-Residence-TJGO](https://github.com/Willgnner-Santos/IT-Residence-TJGO.git)
-- [ResNet34-PetriSegmentation](https://github.com/Willgnner-Santos/ResNet34-PetriSegmentation)
 
-- 🔗 [Veja todos os meus projetos no GitHub](https://github.com/Willgnner-Santos?tab=repositories)
+---
+
+
 
 ---
 
