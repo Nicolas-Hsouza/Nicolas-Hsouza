@@ -11,25 +11,7 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-<p>
-  <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
-  <!-- Inteligência Artificial e Ciência de Dados -->
-  <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial%20(IA)-1F6FEB?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA%20Generativa-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Processamento%20de%20Linguagem%20Natural%20(PLN)-006400?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Large%20Language%20Models%20(LLMs)-6A5ACD?style=for-the-badge&logo=llama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ci%C3%AAncia%20de%20Dados-FF1493?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minera%C3%A7%C3%A3o%20de%20Dados-8B0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Big%20Data-000000?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
-
-  <!-- Business Intelligence -->
-  <img src="https://img.shields.io/badge/Business%20Intelligence%20(BI)-1E90FF?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</p>
 
 
 ---
