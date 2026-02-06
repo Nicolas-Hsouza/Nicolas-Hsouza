@@ -9,22 +9,21 @@
 
 -  🧑‍💼 Buscando oportunidades de estagio na área de TI.
 
----
 
 
 
 
 
 
----
 
 
 
----
 
 
 
----
+
+
+
 
 ## 📬 Entre em Contato
 
