@@ -28,10 +28,10 @@
 ## 📬 Entre em Contato
 
 <p>
- 
+ +55 62 8282-5989
 </p>
 
----
+
 <p align="center">
   <strong>✨ Obrigado por visitar meu perfil!</strong><br/>
   
